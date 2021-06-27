@@ -1,14 +1,16 @@
+package Programs;
+
 /*
  * 
  * Title: Program which returns an entered number in words
  * 
- * Date: 25th May 2021
+ * Date: 22th June 2021
  * 
  */
 
 import java.util.*;
 
-class Main
+class int_to_words
 {
 	public static int digits(int n) {
 	    int count=0;
